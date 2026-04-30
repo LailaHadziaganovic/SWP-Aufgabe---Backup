@@ -1,6 +1,6 @@
 # bisektionsverfahren
 
-python-programm für aufgabe 5 aus swp.
+python-programm für aufgabe 5
 
 start:
 ```powershell
